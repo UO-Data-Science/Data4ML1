@@ -17,7 +17,7 @@
 * **Break** - 5 min
 * **Interactive Terminal excersices** - 50-min
 * **Break** - 10-min 
-* **Intro R- Studio your first ML algorithm** - 50min
+* **Intro R- Studio your first ML algorithm - Structured Data-Wine** - 50min
 
 ## Tuesday
 Open/work - Office Hours - Conceputal Quiz
@@ -47,4 +47,10 @@ Open/work - Office Hours - Conceputal Quiz
 ## Thursday (Make a cool plot)
 
 ## Friday
-Day -5 All of the ML
+* Day - 5 Images and MNIST
+    * Loading Image Data
+    * Image Classifier 
+* Afternoon - Text
+    * Sentiment Analysis   
+Closeout - Applications to gentics and biology
+
