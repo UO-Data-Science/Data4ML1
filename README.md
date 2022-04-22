@@ -1,5 +1,10 @@
-# Data4ML1
-# Agenda
+# Data4ML_2022 
+
+June 6 - 10, 2022
+Genetics - July 11-15, 2022
+Image - August 8-12, 2022
+
+# Agendas
 
 ## **Monday** 
 ### **Morning**: 10:00am-12:00pm (PST)
