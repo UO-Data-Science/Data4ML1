@@ -1,0 +1,114 @@
+<!doctype html>
+<!-- Side navigation -->
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="/assets/css/style.css">
+    <style>
+body {
+  font-family: "Lato", sans-serif;
+}
+
+.sidenav {
+  margin-top:50px;
+  height: 100%;
+  width: 200px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  overflow-x: hidden;
+  padding-top: 20px;
+  background-image: url(/assets/dsci_network.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.sidenav a {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #fee11a;
+  display: block;
+}
+
+.sidenav a:hover {
+  color: #f1f1f1;
+}
+
+
+
+.banner {
+    position: fixed;
+    width: 100%;
+    color: #fee11a;
+    background-color:#104735;
+    height: 120px;
+    font-size: 30px;
+    background-image: url(/assets/dsci_network.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;   
+  }
+
+
+.banner h1{
+  padding: 6px 8px 6px 16px;
+}
+    
+.banner a {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #fee11a;
+}
+
+.banner a:hover {
+  color: #f1f1f1;
+}
+
+
+.main {
+    font-size: 15px;
+    padding-right: 150px;
+    padding-left: 150px;
+    padding-top: 150px;
+    background-image: url(/assets/Cluster.png);  
+    background-position: center;
+    background-repeat: no-repeat;
+    height:100%;
+
+}
+
+</style>
+  </head>
+
+  <body> 
+
+{% comment %}
+    <div class="sidenav">
+
+      
+    </div>
+{% endcomment %}
+    <div class="banner">
+      <div>
+	<h1><a href=/index.html> DATA4ML</a></h1>
+      </div>
+      <a href=/Data4MLW1.html> Gateway Week</a>
+      <a href=/Data4MLW2.html> Sequence Week </a>
+      <a href=/Data4MLW3.html> Image Week </a>
+      <a href=/about> About </a>
+
+
+      
+    </div>  
+
+    <div class="main">
+      {{ content }}
+    </div>
+   </body>
+</html>
