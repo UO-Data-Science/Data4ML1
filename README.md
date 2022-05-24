@@ -18,13 +18,10 @@
 * **Terminal Lecture 1** - 30 minutes [Emily]
   - Find explore
   - Paths/history/Viewing Data 
-  - Tips and Tricks
-  - Screens
 * **BREAK**- 10 minutes
 * **Terminal Lecture 2** - 30 minutes [Emily]
    - Grep sed awk for data cleaning/filtering
    - Combining CSVs
-   - Tips and tricks
 * **Disscusion** - 20 minutes
    - Give Terminal Exercises for tonight/tomorrow [Emily]
  
@@ -41,18 +38,23 @@
 
 # Wednesday
 ### **Morning**: 10:00am-12:00pm
-* **Introduction to R** - 60 minutes [Emily]
+* **Tips and Tricks: Programming Power-Up** - 30 minutes [Emily]
+  - Tips and Tricks
+  - Screens
+  - EMACS
+* **BREAK**- 15 minutes
+* **Introduction to R** - 75 minutes [Emily]
   - What is R package
   - Previewing a Data File
   - Plotting the data set
   - functions
   - variables
-* **Datasets for ML Concepts pt 1** - 60 mintues [Jake]
 ### Lunch: 12:00pm-1:30pm
 ### Afternoon: 1:30pm-4:00pm
-* **Your first ML algorithm/ Classification** -  120 minutes [Jake]
+* **Your first ML algorithm/ Classification** -  90 minutes [Jake]
   - Penguins!
   - Wine!
+* **Datasets for ML Concepts pt 1** - 30 mintues [Jake]
 * **Discussion** - 30 minutes
 
 # Thursday 
