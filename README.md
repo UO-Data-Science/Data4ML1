@@ -1,4 +1,6 @@
 # Data4ML_2022: Gateway Week
+
+# Monday
 ## **Morning**: 10:00am-12:00pm (PST)
 * **Into to workshop** - 15 minutes [Emily]
 * **Group Introductions**- 15 minues [All]
