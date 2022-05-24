@@ -40,22 +40,19 @@
 * **Open Office Hours and Answer Key** - 60 minutes [Emily]
 
 # Wednesday
-### **Morning**: 10:30am-12:00pm
-* **Programing mechanics** - 45 minutes [Jake]
-  - editors
-  - IDE
-  - functions
-* **BREAK**  - 15 minutes 
+### **Morning**: 10:00am-12:00pm
 * **Introduction to R** - 60 minutes [Emily]
   - What is R package
   - Previewing a Data File
   - Plotting the data set
+  - functions
+  - variables
+* **Datasets for ML Concepts pt 1** - 60 mintues [Jake]
 ### Lunch: 12:00pm-1:30pm
 ### Afternoon: 1:30pm-4:00pm
-* **Datasets for ML Concepts pt 1** - 60 mintues [Jake]
-* **BREAK** - 15 minutes
-* **Your first ML algorithm/ Classification** - 45 minutes [Jake]
+* **Your first ML algorithm/ Classification** -  120 minutes [Jake]
   - Penguins!
+  - Wine!
 * **Discussion** - 30 minutes
 
 # Thursday 
