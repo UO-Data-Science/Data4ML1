@@ -2,7 +2,7 @@
 
 # Monday
 ### **Morning**: 10:00am-12:00pm
-* **Into to workshop** - 15 minutes [Emily]
+* **Intro to workshop** - 15 minutes [Emily]
 * **Group Introductions**- 15 minues [All]
 * **What is Machine Learninng** - 45 minuntes [Jake]
 * **BREAK** - 15 min
