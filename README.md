@@ -53,10 +53,10 @@
 ### Lunch: 12:00pm-1:30pm
 ### Afternoon: 1:30pm-4:00pm
 * **Your first ML algorithm/ Classification** -  90 minutes [Jake]
-  - Penguins!
   - Wine!
 * **Datasets for ML Concepts pt 1** - 30 mintues [Jake]
 * **Discussion** - 30 minutes
+* **Homework -Penguins!**
 
 # Thursday 
 ### Monrning: 10:30am-12:00pm
