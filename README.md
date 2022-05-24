@@ -69,7 +69,7 @@
 * **Open Office Hours and Present your figure** -90 minutes [Emily and Jake]
 
 # Friday
-### **Morning**: 10:30am-12:00pm
+### **Morning**: 10:00am-12:00pm
 * **Unsupervised Learning ML Concepts pt 2** - 60 minutes [Jake]
 * **BREAK** - 15 minutes
 * **Clustering example** - 45 minutes [Jake]
