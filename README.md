@@ -18,6 +18,7 @@
 * **Terminal Lecture 1** - 30 minutes [Emily]
   - Find explore
   - Paths/history/Viewing Data 
+  - Filezilla/SCP/cp etc
 * **BREAK**- 10 minutes
 * **Terminal Lecture 2** - 30 minutes [Emily]
    - Grep sed awk for data cleaning/filtering
