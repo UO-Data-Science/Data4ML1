@@ -1,67 +1,78 @@
-# Data4ML_2022 
-
-Week1
+# Data4ML_2022: Gateway Week
 ## **Morning**: 10:00am-12:00pm (PST)
-* **Into to workshop** - 10 minutes
-* **What is Machine Learninng** - 45 mins [Jake]
-* **BREAK** - 15min
-* **Computational Literacy** [Emily]
-  * Hardware/Software Lecture - [20]  
-* **Setup and Software Installation** - 30 min [Emily Terminal/Rstudio? - Jake Open On Demand - Terminal windows]
-  * Show people Terminal
-  * Install Rstudio
-  * Show Open On Demand   
+* **Into to workshop** - 15 minutes [Emily]
+* **Group Introductions**- 15 minues [All]
+* **What is Machine Learninng** - 45 minuntes [Jake]
+* **BREAK** - 15 min
+* **Computational Literacy** -15 minutes [Emily]
+  - Machine code vs Source code
+  - Binary/Ascii/Source code languages and the compiler 
+* **Setup and Software Installation** - 15 minutes [Emily and Jake]
+  - Open On Demand
 ### Lunch 12:00pm-1:30pm
 ### Afternoon 1:30-4:00pm
 * **Good Data Practices** - 50 minutes [Jake]
-* **Break - 10 Minute**   
-* **Interactive Terminal excersices** - 1 hour-min [Emily]
-1. Find explore
-2. Grep sed awk for data cleaning/filtering
-3. Combining CSVs
-4. Tips and tricks
-
-**Disscusion till END**
-Give Quiz
+* **BREAK** - 10 minutes   
+* **Terminal Lecture 1** - 30 minutes [Emily]
+  - Find explore
+  - Paths/history/Viewing Data 
+  - Tips and Tricks
+  - Screens
+* **BREAK**- 10 minutes
+* **Terminal Lecture 2** - 30 minutes [Emily]
+   - Grep sed awk for data cleaning/filtering
+   - Combining CSVs
+   - Tips and tricks
+* **Disscusion** - 20 minutes
+   - Give Terminal Exercises for tonight/tomorrow [Emily]
  
 # Tuesday 
-
-Quiz [Emily] [Qualtrics / PDF]
-Quiz Answers
-Guest Lecture [Lillain]
-Find another lecturer [Jake]
+### **Morning**: 10:30-12:00
+* **Open Office Hours** - 90 minutes [Emily and Jake]
+  - Help with terminal exercises
+### Lunch: 12:00-1:30
+### **Afternoon**: 1:30-4:00
+* **Open Office Hours** - 30 minutes [Emily and Jake]
+* **Guest Lecture** - 60 minutes [Bill]
+  - Data Visualization in R
+* **Open Office Hours and Answer Key** - 60 minutes [Emily]
 
 # Wednesday
-* Programing mechanics - editors/IDE/ Rstudio vs. Opendemand/commpandline, functions, [45 minutes][Jake]
-**break** 
-* Using R to open data - 1:15 Minutes [Emily]
-  * What is R package
-  * Previewing a Data File
-  * Plotting the data set
-**Lunch** 
+### **Morning**: 10:30-12:00
+* **Programing mechanics** - 45 minutes [Jake]
+  - editors
+  - IDE
+  - functions
+* **BREAK**  - 15 minutes 
+* **Introduction to R** - 60 minutes [Emily]
+  - What is R package
+  - Previewing a Data File
+  - Plotting the data set
+### Lunch: 12:00-1:30
+### Afternoon 1:30-4:00pm
+* **Datasets for ML Concepts pt 1** - 60 mintues [Jake]
+* **BREAK** - 15 minutes
+* **Your first ML algorithm/ Classification** - 45 minutes [Jake]
+  - Penguins!
+* **Discussion** - 30 minutes
 
-* Datasets for ML Concepts - 60 Mintues [Jake]
-** break 15 min **
-*  Intro R-Studio your first ML algorithm - Structured Data-Wine - 45  [Jake] (Classification)
-** Discussion - 30 minutes
-
-# Thursday
-Quiz 
-Task 
-Lecture
-*1:oopm
+# Thursday 
+* **Open Office Hours** - 90 minutes [Emily and Jake]
+  - Help with data visualization
+### Lunch: 12:00-1:00
+### **Afternoon**: 1:00-3:30
+* **Guest Lecture** - 60 minutes [Lillian]
+  - R Markdown
+* **Open Office Hours and Present your figure** -90 minutes [Emily and Jake]
 
 # Friday
-* ML Concepts p2 - Unsupervised Learning [Jake] [60 Minutes]
-* PCA
-* Clustering example [Jake] [60 Mintues]
-
-**Lunch**
-*  ML Concepts - Regression [Jake] [60 Minutes]
-
-* Future Directions 1-hours
-  *Genteics for ML Concepts - 30 Mintues [Emily]
-  * Images for ML Concepts - 30 Mintues [Jake]
-** Discussion - 1 hour discussion minutes 
-
-
+### **Morning**: 10:30-12:00
+* **Unsupervised Learning ML Concepts pt 2** - 60 minutes [Jake]
+* **BREAK** - 15 minutes
+* **Clustering example** - 45 minutes [Jake]
+### Lunch: 12:00-1:30
+* **Regression ML Concepts pt 3** - 60 minutes [Jake]
+* **BREAK** - 10 minutes
+* **Genteics for ML Concepts** - 20 Mintues [Emily]
+* **Images for ML Concepts** - 20 Mintues [Emily]
+* **Discussion** - 40 minutes 
