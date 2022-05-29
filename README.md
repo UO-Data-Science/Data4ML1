@@ -17,15 +17,15 @@
 * **BREAK** - 10 minutes   
 * **Terminal Lecture 1** - 30 minutes [Emily]
   - Find explore
-  - Paths/history/Viewing Data 
+  - Paths/history/Viewing Data
+  - Chmod/permissions 
   - Filezilla/SCP/cp etc
 * **BREAK**- 10 minutes
 * **Terminal Lecture 2** - 30 minutes [Emily]
-   - Grep sed awk for data cleaning/filtering
-   - Combining CSVs
+   - Regular Expressions
+   - Grep and Sed
 * **Disscusion** - 20 minutes
    - Give Terminal Exercises for tonight/tomorrow [Emily]
- 
 # Tuesday 
 ### **Morning**: 10:30am-12:00pm
 * **Open Office Hours** - 90 minutes [Emily and Jake]
@@ -39,8 +39,8 @@
 
 # Wednesday
 ### **Morning**: 10:00am-12:00pm
-* **Tips and Tricks: Programming Power-Up** - 30 minutes [Emily]
-  - Tips and Tricks
+* **Terminal Lecture 3: Programming Power-Up** - 30 minutes [Emily]
+  - Awk
   - Screens
   - EMACS
 * **BREAK**- 15 minutes
