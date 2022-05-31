@@ -19,13 +19,13 @@
   - Find explore
   - Paths/history/Viewing Data
   - Chmod/permissions 
-  - Filezilla/SCP/cp etc
+  - External transfers Filezilla/SCP
 * **BREAK**- 10 minutes
 * **Terminal Lecture 2** - 30 minutes [Emily]
    - Regular Expressions
    - Grep and Sed
 * **Disscusion** - 20 minutes
-   - Give Terminal Exercises for tonight/tomorrow [Emily]
+* **Homework -Linux!**
 # Tuesday 
 ### **Morning**: 10:30am-12:00pm
 * **Open Office Hours** - 90 minutes [Emily and Jake]
@@ -41,15 +41,14 @@
 ### **Morning**: 10:00am-12:00pm
 * **Terminal Lecture 3: Programming Power-Up** - 30 minutes [Emily]
   - Awk
+  - Pipes
   - Screens
-  - EMACS
 * **BREAK**- 15 minutes
 * **Introduction to R** - 75 minutes [Emily]
-  - What is R package
+  - What is R package?
   - Previewing a Data File
-  - Plotting the data set
-  - functions
-  - variables
+  - Data frame manipulations in R
+  - Plotting your data (scatter, histogram, boxplot)
 ### Lunch: 12:00pm-1:30pm
 ### Afternoon: 1:30pm-4:00pm
 * **Your first ML algorithm/ Classification** -  90 minutes [Jake]
@@ -66,7 +65,7 @@
 ### **Afternoon**: 1:00pm-3:30pm
 * **Guest Lecture** - 60 minutes [Lillian]
   - R Markdown
-* **Open Office Hours and Present your figure** -90 minutes [Emily and Jake]
+* **Open Office Hours** - 90 minutes [Emily and Jake]
 
 # Friday
 ### **Morning**: 10:00am-12:00pm
@@ -76,7 +75,7 @@
 ### Lunch: 12:00pm-1:30pm
 ### **Afternoon**: 1:00pm-4:00pm
 * **Regression ML Concepts pt 3** - 60 minutes [Jake]
-* **BREAK** - 10 minutes
-* **Genteics for ML Concepts** - 20 Mintues [Emily]
-* **Images for ML Concepts** - 20 Mintues [Emily]
-* **Discussion** - 40 minutes 
+* **BREAK** - 15 minutes
+* **Genteics for ML Concepts** - 15 Mintues [Emily]
+* **Images for ML Concepts** - 15 Mintues [Emily]
+* **Discussion** - 45 minutes 
