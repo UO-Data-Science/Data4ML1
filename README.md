@@ -43,7 +43,7 @@
   - Screens
 * **BREAK** - 10:30am-10:45am 
 * **Introduction to R** - 10:45am-12:00pm [Emily]
-  - What is R package?
+  - What is an R package?
   - Previewing a Data File
   - Data frame manipulations in R
   - Plotting your data (scatter, histogram, boxplot)
