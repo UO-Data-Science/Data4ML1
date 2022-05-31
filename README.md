@@ -57,8 +57,8 @@
 
 # Thursday 
 ### Monrning: 10:30am-12:00pm
-* **Open Office Hours** - 10:30am-12:00pm [Emily and Jake]
-  - Help with data visualization
+* **Open Office Hours** - 10:30am-11:00am [Emily and Jake]
+* **Guest Lecture** - **Lillian Aoiki** *R Markdown: USE IT* 11:00am-12:00pm
 ### Lunch: 12:00pm-1:00pm NOTE: Shorter Day
 ### **Afternoon**: 1:00pm-3:30pm
 * **Guest Lecture** - **Lillian Aoiki** *Marine disease detection and surveillance with in situ and machine learning methods* 1:00pm-2:00pm
