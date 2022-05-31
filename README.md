@@ -33,8 +33,7 @@
 ### Lunch: 12:00pm-1:30pm
 ### **Afternoon**: 1:30pm-4:00pm
 * **Open Office Hours** - 30 minutes [Emily and Jake]
-* **Guest Lecture** - 60 minutes [Bill]
-  - Data Visualization in R
+* **Guest Lecture** - The good, the bad and the ugly of data visualization **Bill Cresko**
 * **Open Office Hours and Answer Key** - 60 minutes [Emily]
 
 # Wednesday
@@ -74,7 +73,7 @@
 * **Clustering example** - 45 minutes [Jake]
 ### Lunch: 12:00pm-1:30pm
 ### **Afternoon**: 1:00pm-4:00pm
-* **Regression ML Concepts pt 3** - 60 minutes [Jake]
+* **ML Algorithms** - 60 minutes [Jake]
 * **BREAK** - 15 minutes
 * **Genteics for ML Concepts** - 15 Mintues [Emily]
 * **Images for ML Concepts** - 15 Mintues [Emily]
