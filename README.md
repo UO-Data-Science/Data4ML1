@@ -32,7 +32,7 @@
 ### Lunch: 12:00pm-1:30pm
 ### **Afternoon**: 1:30pm-4:00pm
 * **Open Office Hours** - 1:30-pm-2:00pm [Emily and Jake]
-* **Guest Lecture** - *The good, the bad and the ugly of data visualization* **Bill Cresko** 2:00pm-3:00pm
+* **Guest Lecture** - **Bill Cresko** *The good, the bad and the ugly of data visualization* 2:00pm-3:00pm
 * **Open Office Hours and Answer Key** - 3:00pm-4:00pm [Emily and Jake]
 
 # Wednesday
@@ -61,7 +61,7 @@
   - Help with data visualization
 ### Lunch: 12:00pm-1:00pm NOTE: Shorter Day
 ### **Afternoon**: 1:00pm-3:30pm
-* **Guest Lecture** - *Marine disease detection and surveillance with in situ and machine learning methods* **Lillian Aoiki** 1:00pm-2:00pm
+* **Guest Lecture** - **Lillian Aoiki** *Marine disease detection and surveillance with in situ and machine learning methods* 1:00pm-2:00pm
 * **Open Office Hours** - 2:00pm-3:30pm [Emily and Jake]
 
 # Friday
