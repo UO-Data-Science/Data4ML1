@@ -4,13 +4,13 @@
 ### **Morning**: 10:00am-12:00pm
 * **Intro to workshop** - 15 minutes [Emily]
 * **Group Introductions**- 15 minues [All]
-* **What is Machine Learninng** - 45 minuntes [Jake]
+* **What is Machine Learning?** - 45 minuntes [Jake]
 * **BREAK** - 15 min
 * **Computational Literacy** -15 minutes [Emily]
   - Machine code vs Source code
   - Binary/Ascii/Source code languages and the compiler 
 * **Setup and Software Installation** - 15 minutes [Emily and Jake]
-  - Open On Demand
+  - Open OnDemand
 ### Lunch: 12:00pm-1:30pm
 ### Afternoon: 1:30pm-4:00pm
 * **Good Data Practices** - 50 minutes [Jake]
