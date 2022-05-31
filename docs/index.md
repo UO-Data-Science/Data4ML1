@@ -13,7 +13,7 @@ filename: index.md
 Learn computational and data skills along sides the fundamentals of machine learning.
 
 ***
-# Registration - [Link](https://oregon.qualtrics.com/jfe/form/SV_38WNAeMZfkhMsL4)
+# Registration - **Closed** 
 
 * Register for our Gateway Week and followup training in sequencing, image analysis, or both.
 * This is an in-person event, open to the UO community
