@@ -45,7 +45,7 @@ All times in PST
 * **Terminal Lecture 2** - 3:10pm-3:40pm [Emily]
    - Regular Expressions
    - Grep and Sed
-* **Disscusion** - 3:40pm-4:00pm [All]
+* **Discussion** - 3:40pm-4:00pm [All]
 * **Homework-Linux!**
 
 ---
