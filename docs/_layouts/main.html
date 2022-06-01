@@ -1,0 +1,115 @@
+---
+---
+
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    <style>
+
+body {
+  font-family: "Lato", sans-serif;
+}
+
+.sidenav {
+  margin-top:50px;
+  height: 100%;
+  width: 200px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  overflow-x: hidden;
+  padding-top: 20px;
+  background-image: url({{ 'assets/dsci_network.jpg' | relative_url }});
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.sidenav a {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #fee11a;
+  display: block;
+}
+
+.sidenav a:hover {
+  color: #f1f1f1;
+}
+
+
+
+.banner {
+    position: fixed;
+    width: 100%;
+    color: #fee11a;
+    background-color:#104735;
+    height: 170px;
+    font-size: 30px;
+    background-image: url({{ '/assets/dsci_network.jpg' | relative_url }});
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;   
+  }
+
+
+.banner h1{
+  padding: 6px 8px 6px 16px;
+}
+    
+.banner a {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #fee11a;
+}
+
+.banner a:hover {
+  color: #f1f1f1;
+}
+
+
+.main {
+    font-size: 15px;
+    padding-right: 150px;
+    padding-left: 150px;
+    padding-top: 170px;
+    background-image: url({{ '/assets/Cluster.png' | relative_url }});  
+    background-position: center;
+    background-repeat: no-repeat;
+    height:100%;
+
+}
+
+</style>
+  </head>
+
+  <body> 
+
+{% comment %}
+    <div class="sidenav">
+
+      
+    </div>
+{% endcomment %}
+    <div class="banner">
+      <div>
+	<h1><a href={{ site.baseurl }}/index.html | relative_url }}> DATA4ML</a></h1>
+      </div>
+      <a href={{'Data4MLW1.html' | relative_url }}> Gateway Week</a>
+      <a href={{'Data4MLW2.html' | relative_url }}> Sequence Week </a>
+      <a href={{'Data4MLW3.html' | relative_url }}> Image Week </a>
+      <a href={{'about' | relative_url }}> About </a>
+
+
+      
+    </div>  
+
+    <div class="main">
+      {{ content }}
+    </div>
+   </body>
+</html>
