@@ -29,6 +29,8 @@ All times in PST
   - Binary/Ascii/Source code languages and the compiler 
 * **Setup and Software Installation** - 11:45am-12:00pm [Emily and Jake]
   - Open OnDemand
+  - [Getting Started]({{'GettingStartedW1.html' | relative_url }}) 
+
   
 ### Lunch: 12:00pm-1:30pm
 
