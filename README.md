@@ -38,7 +38,9 @@
 # Wednesday
 ### **Morning**: 10:00am-12:00pm
 * **Terminal Lecture 3: Programming Power-Up** - 10:00am-10:45am [Emily]
-  - Awk
+  - grep (review)
+  - sed
+  - awk
   - Pipes
   - Screens
 * **BREAK** - 10:45am-11:00am 
