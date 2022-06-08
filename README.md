@@ -37,12 +37,12 @@
 
 # Wednesday
 ### **Morning**: 10:00am-12:00pm
-* **Terminal Lecture 3: Programming Power-Up** - 10:00am-10:30am [Emily]
+* **Terminal Lecture 3: Programming Power-Up** - 10:00am-10:45am [Emily]
   - Awk
   - Pipes
   - Screens
-* **BREAK** - 10:30am-10:45am 
-* **Introduction to R** - 10:45am-12:00pm [Emily]
+* **BREAK** - 10:45am-11:00am 
+* **Introduction to R** - 11:00am-12:00pm [Emily]
   - What is an R package?
   - Previewing a Data File
   - Data frame manipulations in R
