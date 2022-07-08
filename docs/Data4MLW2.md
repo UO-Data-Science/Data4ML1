@@ -24,7 +24,7 @@ filename: Data4MLW1.md
 
 ####  **Lunch** - 12:00-1:00pm
 
-#### **Tuesday Morning: 1:00-3:30pm**
+#### **Tuesday Afternoon: 1:00-3:30pm**
 ##### - **Guest Lecture** *ML and the Microbiome* - Kaye Shek 1:00pm-2:00pm 
 ##### - **Open Office Hours** - 2:00pm-3:30pm
 
@@ -53,7 +53,7 @@ filename: Data4MLW1.md
 
 #### - **LUNCH** - 12:00-1:00pm
 
-#### **Thursday Morning: 1:00-3:30pm**
+#### **Thursday Afternoon: 1:00-3:30pm**
 ##### - **Guest Lecture** *Technology at the GC3F* - Doug Turnbull 2:00pm-3:00pm
 ##### - **Open Office Hours** - 3:00pm-3:30pm
 
@@ -68,9 +68,9 @@ filename: Data4MLW1.md
 #### **LUNCH: 12:00pm-1:30pm**
 
 #### **Friday Afternoon: 1:30pm-4:00pm**
-##### - **Lecture:Deep Learning for unsupervised problems**- 1:30pm-2:00pm [Jake]
-##### - **Hands-on: Auto-encoders** 2:00pm-2:30pm [Jake]
-##### - **BREAK** 2:30pm-2:45pm
-##### - **Hands-on: scRNA-seq** 2:45pm-3:30pm [Jake and Emily]
+##### - **Hands-on: scRNA-seq** 2=1:30pm-2:15pm [Jake and Emily]
+##### - **BREAK** 2:15pm-2:30pm
+##### - **Lecture:Deep Learning for unsupervised problems**- 2:30pm-3:00pm [Jake]
+##### - **Hands-on: Auto-encoders** 3:00pm-3:30pm [Jake]
 ##### - **Discussion** 3:30pm-4:00pm
 
