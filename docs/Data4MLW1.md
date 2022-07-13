@@ -24,6 +24,7 @@ All times in PST
 * **Group Introductions** - 10:15am-10:30am [All]
 * **What is Machine Learning?** - 10:30am-11:15am [Jake]
 * **BREAK** - 11:15am-11:30am
+  - [Survey](https://oregon.qualtrics.com/jfe/form/SV_5hv4utJwRmMjXGC) 
 * **Computational Literacy** - 11:30am-11:45am [Emily]
   - Machine code vs Source code
   - Binary/Ascii/Source code languages and the compiler 

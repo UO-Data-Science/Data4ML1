@@ -19,7 +19,7 @@ We'll be working with data and computer that are part of UO's high-performance c
 
 
 * Use **Chrome** or **Firefox** (results may vary with other browsers)
-Navigate to [talapas-ln1.uoregon.edu](talapas-ln1.uoregon.edu)
+Navigate to [talapas-ln1.uoregon.edu](https://talapas-ln1.uoregon.edu)
 * Log in with your duckID credentials
 * Select Interactive Apps in the top bar
 * Click on **Jupyter Notebook (R/IRkernel)**
