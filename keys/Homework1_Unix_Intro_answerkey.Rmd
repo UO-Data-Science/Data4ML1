@@ -1,0 +1,27 @@
+---
+title: "Exercise 1 (Unix Introduction) // Foundational Statistics Bi 610"
+layout: page
+description: Exercise 1
+---
+
+
+## Here are some command line tasks to try for practice!
+
+Save a digital record of your work so that you can study it later if you need to 
+
+1. Open up a terminal and execute the following using UNIX commands
+    - print your working directory
+    - navigate to the homework1 working directory
+    -copy a version of example_gff.tsv to a folder in your home diectory you want to work in
+    - use at least 3 different UNIX commands to look at all or parts of `example_gff.tsv`
+    - how many lines does `example_gff.tsv` have?
+    ### cat -n example_gff.tsv
+    - how many lines in the file begin with "LG5"
+    ### grep -c LG5 example_gff.tsv
+    - replace all instances of "LG" with "linkage_group" and print to the terminal
+    ### sed 's/LG/linkage_group/g' example_gff.tsv
+    - capture fields 1, 2, and 9 and write to a new file called `3_cols.tsv`
+    ### awk '{print $1, $2, $9}' example_gff.tsv
+  
+
+
