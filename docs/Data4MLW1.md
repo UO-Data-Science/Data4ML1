@@ -24,11 +24,15 @@ All times in PST
 * **Group Introductions** - 10:15am-10:30am [All]
 * **What is Machine Learning?** - 10:30am-11:15am [\[Slides\]](https://github.com/UO-Data-Science/Data4ML1/raw/main/slides/What%20is%20ML.pdf) 
 * **BREAK** - 11:15am-11:30am
-* **Computational Literacy** - 11:30am-11:45am [\[Slides\]](https://github.com/UO-Data-Science/Data4ML1/blob/main/slides/Beck_Lecture2_Comp_Lit.pdf)
+* **Computational Literacy** - 11:30am-11:45am
+  - [Survey](https://oregon.qualtrics.com/jfe/form/SV_5hv4utJwRmMjXGC) 
+* **Computational Literacy** - 11:30am-11:45am  [\[Slides\]](https://github.com/UO-Data-Science/Data4ML1/blob/main/slides/Beck_Lecture2_Comp_Lit.pdf)
   - Machine code vs Source code
   - Binary/Ascii/Source code languages and the compiler 
 * **Setup and Software Installation** - 11:45am-12:00pm 
   - Open OnDemand
+  - [Getting Started]({{'GettingStartedW1.html' | relative_url }}) 
+
   
 ### Lunch: 12:00pm-1:30pm
 
